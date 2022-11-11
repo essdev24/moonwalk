@@ -40,8 +40,3 @@ Click on **PUBLISH CHANGES** and comment. Your editing will be saved.
 [wiki-create]: https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto
 [art-feminism]: https://artandfeminism.org
 
-[img-wiki-1]: /assets/images/1.jpg
-[img-wiki-2]: /assets/images/2.jpg
-[img-wiki-3]: /assets/images/3.jpg
-[img-wiki-4]: /assets/images/4.jpg
-[img-wiki-5]: /assets/images/5.jpg
